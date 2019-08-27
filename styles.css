@@ -1,0 +1,35 @@
+body {
+background-color:#000;
+color:#FFF;
+text-align : center;
+align-items: center;
+align-content: center;
+font-family: 'Poiret One', cursive;
+    font-size: x-large;
+}
+
+button {
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+  font-weight: bolder;
+  color:white;
+  border:2px solid white;
+  background:transparent;
+  border-radius:30px;
+  height:70px;
+  width:100px;
+}
+
+button:hover {background-color:#FF4A4A}
+
+button:active {
+  background-color:#FFF;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.btn {
+	margin:1em;
+	)
+
+	
+	}
